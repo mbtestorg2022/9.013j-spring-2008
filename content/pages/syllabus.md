@@ -33,11 +33,48 @@ Levitan, Irwin B., and Leonard K. Kaczmarek. _The Neuron: Cell & Molecular Biolo
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Two exams (30% each) | 60% |
-| Presentation | 20% |
-| Attendance and class participation | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two exams (30% each)
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and class participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
@@ -46,31 +83,333 @@ MCP = Prof. Martha Constantine-Paton
 MS = Prof. Morgan Sheng  
 Chip Q = Prof. William Quinn
 
-| LEC # | TOPICS | INSTRUCTORS |
-| --- | --- | --- |
-| 1 | Ion channels I | MS |
-| 2 | Ion channels II | MS |
-| 3 | Receptors I | MS |
-| 4 | Receptors II | MS |
-| 5 | Introduction; basics of electrophysiology | MCP |
-| 6 | Modulation of receptor activity | MCP |
-| 7 | Protein targeting, signaling complexes | MS |
-| 8 | Neuronal polarity / subcellular specialization | MS |
-| 9 | Repertoire of neuron interactions | MCP |
-| 10 | Neurogenesis | Li-Huei Tsai |
-| 11 | Presynaptic mechanisms | MS |
-| &nbsp; | Mid-term exam | &nbsp; |
-| 12 | Molecular manipulation of neural circuits | Susan Su (Introduction) |
-| 13 | Axon guidance | Davie van Vactor (Harvard) |
-| 14 | Synapse formation/elimination | MCP |
-| 15 | Trophic factors | MCP |
-| 16 | Postsynaptic mechanisms; LTP/LTD | MS |
-| 17 | Waves and chemoaffinity | MCP |
-| 18 | Two faces of GABA | MCP |
-| 19 | Hodgkin and Huxley (lecture 1) | Chip Q |
-| 20 | Hodgkin and Huxley (lecture 2) | Chip Q |
-| 21 | _Aplysia_ learning | Chip Q |
-| 22 | _Drosophila_ learning | Chip Q |
-| 23 | _Drosophila_ circadian rhythms | Chip Q |
-| 24 | Epilepsy | MCP |
-| &nbsp; | Final exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Ion channels I
+{{< tdclose >}}
+{{< tdopen >}}
+MS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Ion channels II
+{{< tdclose >}}
+{{< tdopen >}}
+MS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Receptors I
+{{< tdclose >}}
+{{< tdopen >}}
+MS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Receptors II
+{{< tdclose >}}
+{{< tdopen >}}
+MS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction; basics of electrophysiology
+{{< tdclose >}}
+{{< tdopen >}}
+MCP
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Modulation of receptor activity
+{{< tdclose >}}
+{{< tdopen >}}
+MCP
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Protein targeting, signaling complexes
+{{< tdclose >}}
+{{< tdopen >}}
+MS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Neuronal polarity / subcellular specialization
+{{< tdclose >}}
+{{< tdopen >}}
+MS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Repertoire of neuron interactions
+{{< tdclose >}}
+{{< tdopen >}}
+MCP
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Neurogenesis
+{{< tdclose >}}
+{{< tdopen >}}
+Li-Huei Tsai
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Presynaptic mechanisms
+{{< tdclose >}}
+{{< tdopen >}}
+MS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-term exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular manipulation of neural circuits
+{{< tdclose >}}
+{{< tdopen >}}
+Susan Su (Introduction)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Axon guidance
+{{< tdclose >}}
+{{< tdopen >}}
+Davie van Vactor (Harvard)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Synapse formation/elimination
+{{< tdclose >}}
+{{< tdopen >}}
+MCP
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Trophic factors
+{{< tdclose >}}
+{{< tdopen >}}
+MCP
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Postsynaptic mechanisms; LTP/LTD
+{{< tdclose >}}
+{{< tdopen >}}
+MS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Waves and chemoaffinity
+{{< tdclose >}}
+{{< tdopen >}}
+MCP
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Two faces of GABA
+{{< tdclose >}}
+{{< tdopen >}}
+MCP
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Hodgkin and Huxley (lecture 1)
+{{< tdclose >}}
+{{< tdopen >}}
+Chip Q
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Hodgkin and Huxley (lecture 2)
+{{< tdclose >}}
+{{< tdopen >}}
+Chip Q
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+_Aplysia_ learning
+{{< tdclose >}}
+{{< tdopen >}}
+Chip Q
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+_Drosophila_ learning
+{{< tdclose >}}
+{{< tdopen >}}
+Chip Q
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_Drosophila_ circadian rhythms
+{{< tdclose >}}
+{{< tdopen >}}
+Chip Q
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Epilepsy
+{{< tdclose >}}
+{{< tdopen >}}
+MCP
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
